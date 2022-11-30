@@ -1,0 +1,5 @@
+node_modules
+build
+auth.pem
+.env
+exclude_this.txt
